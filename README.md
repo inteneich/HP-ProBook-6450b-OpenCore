@@ -9,10 +9,10 @@ Testing on:
 Model | HP ProBook 6450b
 ------------- | ---------------
 CPU | Intel Core i5 M 520
-GPU | Intel HD Graphics (Arrowlake)
+GPU | Intel HD Graphics (Ironlake)
 RAM | 4 GB DDR3-1066 (spare Samsung sticks)
 Ethernet | Intel 82574L
-Wifi | Intel Centrino Wireless N-1000
+Wi-Fi | Intel Centrino Wireless N-1000
 
 ## What works?
 
