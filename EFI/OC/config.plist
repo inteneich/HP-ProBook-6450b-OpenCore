@@ -782,7 +782,7 @@
 				<key>Identifier</key>
 				<string>com.apple.iokit.IOGraphicsFamily</string>
 				<key>MaxKernel</key>
-				<string>16.30.00</string>
+				<string>13.99.99</string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>PlistPath</key>
@@ -842,7 +842,7 @@
 				<key>Identifier</key>
 				<string>com.apple.iokit.IONetworkingFamily</string>
 				<key>MaxKernel</key>
-				<string>17.60.00</string>
+				<string>13.99.99</string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>PlistPath</key>
